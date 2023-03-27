@@ -3,9 +3,17 @@
     padding: 0;
 }
 
-.image-gallery{
-    height: 100vh;
+body{
     background-color: aliceblue;
+    height: 100vh;
+}
+
+.common-height{
+    height: 100%;
+}
+
+.image-gallery{
+    position: relative;
 }
 
 .container{
